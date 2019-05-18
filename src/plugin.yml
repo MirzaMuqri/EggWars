@@ -1,0 +1,8 @@
+main: xye.mukri.eggwars.Core
+name: EggWars
+version: 0.0.1
+Description: EggWars Minigames by Mukri
+author: Mukri.xyz
+commands:
+  eggwars:
+    description: EggWars plugins.
